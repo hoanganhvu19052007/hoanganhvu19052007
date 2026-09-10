@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,40&height=220&section=header&text=Xin%20chào,%20tôi%20là%20Developer!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,40&height=220&section=header&text=Xin%20chào,%20tôi%20là%20Hoàng%20Anh%20Vũ%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <!-- Typing SVG Text -->
   <a href="https://git.io/typing-svg">
@@ -56,7 +56,7 @@
 ### 📬 Kết nối với tôi
 
 <div align="center">
-  <a href="https://facebook.com/YOUR_FB" target="_blank">
+  <a href="https://www.facebook.com/hoanganhvu190507" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
