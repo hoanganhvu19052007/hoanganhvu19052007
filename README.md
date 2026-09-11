@@ -1,80 +1,86 @@
 <div align="center">
 
-  <!-- Space Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=260&section=header&text=Hoàng%20Anh%20Vũ%20🌌&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=🚀%20Welcome%20to%20my%20Cosmic%20Workspace%20🛸&descFontSize=20&descAlignY=62&descAlign=50&animation=twinkling" width="100%" />
+  <!-- Cyber Hacker Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:041a0e,100:00ff41&height=220&section=header&text=HOÀNG%20ANH%20VŨ%20☠️&fontSize=38&fontColor=00FF41&fontAlignY=40&desc=%3E%20ROOT%20ACCESS%20GRANTED%20//%20CYBER%20WORKSPACE%20INITIALIZED&descFontSize=16&descColor=a3e635&descAlignY=65&descAlign=50&animation=fadeIn" width="100%" />
 
-  <!-- Animated Space Typing SVG -->
+  <!-- Hacker Terminal Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=%F0%9F%9B%B0%EF%B8%8F+Full-Stack+Explorer+%7C+Tech+Enthusiast;%E2%9C%A8+Du+h%C3%A0nh+v%C3%A0o+v%C5%A9+tr%E1%BB%A5+c%C3%B4ng+ngh%E1%BB%87+%26+AI;%F0%9F%9A%80+Bi%E1%BA%BFn+%C3%BD+t%C6%B0%E1%BB%9Fng+th%C3%A0nh+c%C3%A1c+si%C3%AAu+d%E1%BB%B1+%C3%A1n+s%C3%A1ng+t%E1%BA%A1o;%F0%9F%8C%8C+Code+is+the+infinite+starlight+of+creativity" alt="Cosmic Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%3E_++whoami+%3A+Ho%C3%A0ng+Anh+V%C5%A9+%7C+Cyber+Architect;%3E_++System.status+%3D+%22BREACHING_BOUNDARIES%22%3B;%3E_++Scanning+ports...+Vulnerabilities+patched%21;%3E_++Injecting+clean+code+into+the+matrix...;%3E_++Full-Stack+Engineer+%7C+Security+%26+AI+Explorer" alt="Hacker Terminal Typing" />
   </a>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=%E2%9C%A8+V%C5%A9+Tr%E1%BB%A5+L%C6%B0%E1%BB%A3t+Xem&color=7928CA&labelColor=0D1117&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=%F0%9F%94%B0+SYSTEM+VISITS&color=00ff41&labelColor=000000&style=for-the-badge" alt="Terminal Access Count" />
   </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🛰️ MISSION LOG • Giới Thiệu Bản Thân
+### 💻 `[0x01]` // TARGET PROFILE & SYSTEM IDENTITY
 
 <table>
   <tr>
     <td width="65%" valign="top">
 
-```yaml
-astronomer: "Hoàng Anh Vũ"
-current_base: "Planet Earth 🌍"
-mission: "Khám phá chiều không gian số & Xây dựng các siêu phẩm công nghệ"
-status: "Đang tăng tốc động cơ Warp 🚀"
+```bash
+┌──(root㉿matrix-node)-[~]
+└─# cat /etc/identity.conf
+
+[IDENTITY]
+USER        = "Hoàng Anh Vũ"
+IP_ORIGIN   = "127.0.0.1 (Planet Earth 🌍)"
+ACCESS_LVL  = "SUPERUSER / ROOT"
+SPECIALTY   = "Full-Stack System Architecture & AI"
+OBJECTIVE   = "Giải mã & xây dựng hạ tầng phần mềm tối thượng"
+STATUS      = "ONLINE [FIREWALL BYPASSED 🟢]"
 ```
 
-- 🪐 **Trạm nghiên cứu:** Đang phát triển các dự án cá nhân & đóng góp giải pháp mã nguồn mở.
-- 🔭 **Kính thiên văn hướng tới:** Chuyên sâu về **Full-Stack Architecture**, **Hệ thống phân tán** & **AI / Machine Learning**.
-- 📡 **Bắt sóng tín hiệu:** Luôn mở rộng kết nối với các phi hành gia công nghệ khác trên khắp vũ trụ.
-- ⚡ **Chân lý vũ trụ:** *Code không chỉ là công việc, đó là những vì sao định hình thế giới tương lai.*
+- ⚡ **Operation:** Đang triển khai các dự án mã nguồn mở & hệ thống backend bảo mật cao.
+- 🎯 **Target:** Chinh phục **Cloud Native**, **Microservices**, **AI Security** & **Hệ thống phân tán**.
+- 📡 **Listening Port:** Cổng giao tiếp luôn mở sẵn sàng nhận tín hiệu hợp tác & kết nối.
+- 🧬 **Quote:** `"There is no spoon... Only pure, optimized code."`
 
    </td>
    <td width="35%" align="center" valign="middle">
-     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/globe.gif" width="220" alt="Planet Earth Rotating" />
+     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/globe.gif" width="220" alt="Cyber Grid Earth" />
      <br/>
-     <samp><b>🌍 Sector: Earth (Sol-3)</b></samp>
+     <samp><b style="color:#00ff41;">🌐 CYBER GRID: EARTH-NODE</b></samp>
    </td>
   </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🚀 TECH ARSENAL • Kho Vũ Khí Không Gian
+### 🛠️ `[0x02]` // CYBER ARSENAL & TECH STACK
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,tailwind,docker,git,github,vscode,postman,mongodb,postgres,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,tailwind,docker,git,github,linux,bash,mongodb,postgres,postman" />
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 COSMIC RADAR • Phân Tích Ngôn Ngữ & Dữ Liệu
+### 📊 `[0x03]` // CODE INJECTION ANALYTICS
 
-> 🌌 *Hệ thống radar tự động quét và phân tích tỷ lệ các ngôn ngữ đã triển khai trên quỹ đạo GitHub:*
+> 🟢 *Hệ thống quét tự động mã nguồn và tỷ lệ đóng góp trên mạng lưới GitHub:*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=false&border_color=7928CA&bg_color=0D1117&title_color=00F2FE&text_color=E2E8F0&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=matrix&hide_border=false&border_color=00FF41&bg_color=000000&title_color=00FF41&text_color=00FF41&langs_count=8" alt="Top Languages Matrix" />
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📈 FLIGHT TELEMETRY • Chỉ Số Hoạt Động Không Gian
+### 📈 `[0x04]` // NODE ACTIVITY & REPO TELEMETRY
 
 <div align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=false&border_color=7928CA&bg_color=0D1117&title_color=00F2FE&text_color=E2E8F0&count_private=true" alt="GitHub Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=matrix&hide_border=false&border_color=00FF41&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&count_private=true" alt="Hacker GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&border_color=7928CA&background=0D1117&ring=00F2FE&fire=F355DA&currStreakLabel=00F2FE" alt="GitHub Streak" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=matrix&hide_border=false&border_color=00FF41&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Hacker Streak Stats" height="165" />
   </a>
 </div>
 
@@ -82,28 +88,28 @@ status: "Đang tăng tốc động cơ Warp 🚀"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🌌 COMMUNICATIONS ARRAY • Kết Nối Trạm Vũ Trụ
+### 📡 `[0x05]` // ENCRYPTED COMMS & UPLINK CHANNELS
 
 <div align="center">
   <a href="https://www.facebook.com/hoanganhvu190507" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF41" alt="Facebook" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:your_email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Encrypted_Mail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Mail" />
   </a>
   &nbsp;
   <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord_Node-000000?style=for-the-badge&logo=discord&logoColor=00FF41" alt="Discord" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=footer&text=✨%20Keep%20Reaching%20For%20The%20Stars%20✨&fontSize=20&fontColor=00F2FE&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:041a0e,100:00ff41&height=100&section=footer&text=%3E%20SYSTEM_STATUS%3A%20OPTIMAL%20//%20CONNECTION%20CLOSED%20%3C&fontSize=16&fontColor=00FF41&animation=fadeIn" width="100%" />
 </div>
