@@ -18,9 +18,13 @@
 
 ### 🛰️ MISSION LOG • Giới Thiệu Bản Thân
 
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
 ```yaml
 astronomer: "Hoàng Anh Vũ"
-current_base: "Earth 🌍"
+current_base: "Planet Earth 🌍"
 mission: "Khám phá chiều không gian số & Xây dựng các siêu phẩm công nghệ"
 status: "Đang tăng tốc động cơ Warp 🚀"
 ```
@@ -29,6 +33,15 @@ status: "Đang tăng tốc động cơ Warp 🚀"
 - 🔭 **Kính thiên văn hướng tới:** Chuyên sâu về **Full-Stack Architecture**, **Hệ thống phân tán** & **AI / Machine Learning**.
 - 📡 **Bắt sóng tín hiệu:** Luôn mở rộng kết nối với các phi hành gia công nghệ khác trên khắp vũ trụ.
 - ⚡ **Chân lý vũ trụ:** *Code không chỉ là công việc, đó là những vì sao định hình thế giới tương lai.*
+
+   </td>
+   <td width="35%" align="center" valign="middle">
+     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/globe.gif" width="220" alt="Planet Earth Rotating" />
+     <br/>
+     <samp><b>🌍 Sector: Earth (Sol-3)</b></samp>
+   </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
