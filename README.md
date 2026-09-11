@@ -3,7 +3,12 @@
   <!-- Modern Tech Wave Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=220&section=header&text=Hoàng%20Anh%20Vũ&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud%20%26%20AI%20Solutions%20Architect&descFontSize=16&descColor=A5B4FC&descAlignY=62" width="100%" />
 
-  <br/>
+  <!-- Profile Avatar with Glow & Border -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="135" height="135" style="border-radius: 50%; border: 3px solid #6366F1; box-shadow: 0 0 25px rgba(99, 102, 241, 0.45); object-fit: cover;" alt="Avatar" />
+  </a>
+
+  <br/><br/>
 
   <!-- Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
