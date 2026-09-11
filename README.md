@@ -1,93 +1,103 @@
 <div align="center">
 
-  <!-- HUD Cyber Header -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,40:0b192c,100:00ff66&height=180&section=header&text=⚡%20HOÀNG%20ANH%20VŨ%20//%20CYBER_OS%20v2.4&fontSize=34&fontColor=00ff66&fontAlignY=45&desc=SYSTEM%20STATUS:%20OPERATIONAL%20%7C%20CORE%20ONLINE&descFontSize=14&descColor=6ee7b7&descAlignY=72" width="100%" />
+  <!-- Modern Tech Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=220&section=header&text=Hoàng%20Anh%20Vũ&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud%20%26%20AI%20Solutions%20Architect&descFontSize=16&descColor=A5B4FC&descAlignY=62" width="100%" />
 
   <br/>
 
-  <!-- Dynamic Typing Console -->
+  <!-- Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=00FF66&center=true&vCenter=true&width=620&lines=%E2%96%B6+SYSTEM.BOOT(%22Full-Stack+%26+Cloud+Architect%22)%3B;%E2%96%B6+INITIALIZING+NEURAL+PIPELINES...;%E2%96%B6+SECURING+PORTS+%26+OPTIMIZING+ALGORITHMS;%E2%96%B6+READY+FOR+NEXT-GEN+INNOVATION" alt="Terminal Console" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=%E2%9C%A8+Architecting+Scalable+%26+High-Performance+Web+Apps;%E2%9A%A1+Passionate+about+Cloud-Native+%26+Microservices;%F0%9F%A4%96+Exploring+AI+Agents+%26+Modern+Fullstack;%F0%9F%9A%80+Turning+Complex+Problems+into+Clean+Code" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- Status HUD Badges -->
+  <!-- Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/SECURITY_LEVEL-CLASSIFIED-050811?style=for-the-badge&logo=hackthebox&logoColor=00FF66&labelColor=020617" />
-    <img src="https://img.shields.io/badge/UPTIME-99.99%25-050811?style=for-the-badge&logo=buffer&logoColor=00FF66&labelColor=020617" />
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=NETWORK_TRAFFIC&color=00ff66&labelColor=020617&style=for-the-badge" />
+    <a href="https://github.com/hoanganhvu">
+      <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-10B981?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0F172A" alt="Status" />
+    </a>
+    <a href="https://github.com/hoanganhvu">
+      <img src="https://img.shields.io/badge/FOCUS-FULLSTACK_%26_AI-6366F1?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0F172A" alt="Focus" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=hoanganhvu&label=PROFILE_VIEWS&color=6366f1&style=for-the-badge&labelColor=0f172a" alt="Profile Views" />
+  </p>
+
+  <!-- Quick Social Links -->
+  <p align="center">
+    <a href="https://www.facebook.com/hoanganhvu190507" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:your_email@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    &nbsp;
+    <a href="https://yourportfolio.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
   </p>
 
 </div>
 
 ---
 
-### 🖥️ MODULE 01: SYSTEM SPECS & BIOMETRIC OVERVIEW
+### 👨‍💻 Giới Thiệu (About Me)
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-
-```ini
-[OPERATOR_PROFILE]
-Name        = "Hoàng Anh Vũ"
-Role        = "Full-Stack Software Engineer"
-Location    = "Earth Node [Vietnam / GMT+7] 🌐"
-Kernel_Ver  = "Linux / Cloud-Native"
-Focus_Areas = "Distributed Systems • AI • Microservices"
-Work_Status = "AVAILABLE_FOR_HIGH_IMPACT_PROJECTS"
+```yaml
+name: "Hoàng Anh Vũ"
+role: "Full-Stack Software Engineer"
+location: "Vietnam (GMT+7) 🇻🇳"
+primary_stack: ["TypeScript", "Next.js", "Node.js", "Python", "Docker"]
+mindset: "Clean Architecture, High Performance, User-Centric Design"
+current_goal: "Xây dựng các giải pháp phần mềm hiện đại, tối ưu hoá hiệu năng và tích hợp AI."
 ```
 
-> **📌 Tôn chỉ phát triển:**
-> *"Biến những bài toán phức tạp thành các giải pháp kiến trúc tối ưu, bảo mật và hiệu năng cao."*
-
-   </td>
-   <td width="40%" align="center" valign="middle">
-     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/globe.gif" width="190" alt="Cyber Globe" />
-     <br/>
-     <samp><b>[ GEO_COORDINATES: LAT 21.0 | LON 105.8 ]</b></samp>
-   </td>
-  </tr>
-</table>
+- 🚀 **Kinh nghiệm & Thế mạnh:** Chuyên phát triển các ứng dụng web hiện đại (SPA, SSR), thiết kế RESTful/GraphQL APIs, tối ưu hóa cơ sở dữ liệu và triển khai hệ thống Cloud-Native.
+- 💡 **Đam mê nghiên cứu:** Kiến trúc hướng sự kiện (Event-Driven), Microservices, Docker containerization, và ứng dụng AI/LLMs vào sản phẩm thực tế.
+- 🎯 **Tôn chỉ làm việc:** *"Code sạch, kiến trúc vững, tư duy giải pháp và không ngừng đổi mới."*
 
 ---
 
-### ⚡ MODULE 02: WEAPONS & TECH STACK INVENTORY
+### 🛠️ Kỹ Năng & Công Nghệ (Tech Stack Ecosystem)
 
 <div align="center">
 
-| Phân Loại | Công Nghệ & Công Cụ Tác Chiến |
+| Danh Mục | Công Nghệ & Công Cụ Sử Dụng |
 | :--- | :--- |
-| **🌐 Frontend & UI** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" height="38"/> |
-| **⚙️ Backend & API** | <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,express" height="38"/> |
-| **🗄️ Database & Storage** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" height="38"/> |
-| **🛡️ DevOps & Security** | <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,postman,vscode" height="38"/> |
+| **🌐 Frontend & UI** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css" /></a> |
+| **⚙️ Backend & APIs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" /></a> |
+| **🗄️ Database & Cache** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma" /></a> |
+| **☁️ DevOps & Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,github,actions,linux,nginx,postman,vscode" /></a> |
 
 </div>
 
 ---
 
-### 📊 MODULE 03: TELEMETRY & NETWORK PERFORMANCE
+### 📊 Hoạt Động & Hiệu Suất GitHub (Telemetry & Stats)
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/YOUR_GITHUB_USERNAME">
-          <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=matrix&hide_border=false&border_color=00FF66&bg_color=050811&title_color=00FF66&text_color=E2E8F0&icon_color=00FF66&count_private=true" width="410" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1&text_bold=true" width="410" alt="GitHub Stats" />
         </a>
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/YOUR_GITHUB_USERNAME">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=matrix&hide_border=false&border_color=00FF66&background=050811&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" width="410" alt="Streak Stats" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="410" alt="Streak Stats" />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="top">
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=matrix&hide_border=false&border_color=00FF66&bg_color=050811&title_color=00FF66&text_color=E2E8F0&langs_count=8" width="550" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1&langs_count=8" width="550" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -95,41 +105,36 @@ Work_Status = "AVAILABLE_FOR_HIGH_IMPACT_PROJECTS"
 
 ---
 
-### 🚀 MODULE 04: FEATURED MISSION REPOSITORIES
-
-```text
-┌── [PROJECT_01] ─── High-Performance Backend Architecture
-├── [PROJECT_02] ─── AI-Powered Intelligent Automation Agent
-└── [PROJECT_03] ─── Realtime Interactive Dashboard & Analytics
-```
-
-> 💡 *Bạn có thể ghim các repo nổi bật hoặc thêm link dẫn trực tiếp đến các dự án tâm đắc nhất tại đây.*
-
----
-
-### 📡 MODULE 05: ENCRYPTED COMMUNICATIONS & TRANSMISSION
+### 🚀 Dự Án Tiêu Biểu (Featured Projects)
 
 <div align="center">
 
-| Channel | Uplink Address | Status |
-| :---: | :--- | :---: |
-| **🌐 Facebook** | [fb.com/hoanganhvu190507](https://www.facebook.com/hoanganhvu190507) | `SECURE` |
-| **💼 LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN) | `ONLINE` |
-| **📧 Direct Comms** | [your_email@example.com](mailto:your_email@example.com) | `ACTIVE` |
-| **💬 Discord** | `Discord Node: hoanganhvu` | `LISTENING` |
+| Dự Án | Công Nghệ | Mô Tả Tóm Tắt | Trạng Thái & Liên Kết |
+| :--- | :--- | :--- | :---: |
+| 🌐 **Next-Gen E-Commerce Platform** | `Next.js 14`, `TypeScript`, `TailwindCSS`, `Stripe` | Nền tảng thương mại điện tử hiệu năng cao, chuẩn SEO, hỗ trợ thanh toán trực tuyến. | [Demo](https://github.com) • [Source](https://github.com) |
+| ⚡ **Realtime Microservices API** | `Node.js`, `NestJS`, `Redis`, `RabbitMQ`, `PostgreSQL` | Hệ thống backend phân tán xử lý hàng nghìn request/giây với cơ chế caching & message queue. | [Demo](https://github.com) • [Source](https://github.com) |
+| 🤖 **AI Knowledge Automation Agent** | `Python`, `FastAPI`, `LangChain`, `OpenAI API` | Hệ thống trợ lý AI hỏi đáp tài liệu thông minh sử dụng kỹ thuật RAG & Vector DB. | [Demo](https://github.com) • [Source](https://github.com) |
 
-<br/>
+</div>
+
+---
+
+### 📬 Kết Nối Với Tôi (Get in Touch)
+
+<div align="center">
+
+<p>Tôi luôn sẵn sàng kết nối, chia sẻ kiến thức hoặc hợp tác trong các dự án công nghệ mới!</p>
 
 <a href="https://www.facebook.com/hoanganhvu190507" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-00FF66?style=for-the-badge&logo=facebook&logoColor=000000" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-00FF66?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:your_email@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-00FF66?style=for-the-badge&logo=gmail&logoColor=000000" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 </div>
@@ -137,5 +142,6 @@ Work_Status = "AVAILABLE_FOR_HIGH_IMPACT_PROJECTS"
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,40:0b192c,100:00ff66&height=70&section=footer&text=%3E%20END_TRANSMISSION%20%7C%20ALL_SYSTEMS_NOMINAL%20%3C&fontSize=14&fontColor=00ff66" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,20&height=90&section=footer" width="100%" />
+  <sub>⚡ Designed with passion & modern tech mindset by <b>Hoàng Anh Vũ</b> 🚀</sub>
 </div>
