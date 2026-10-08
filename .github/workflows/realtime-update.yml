@@ -1,0 +1,42 @@
+name: Real-Time README Update
+
+on:
+  schedule:
+    # Chạy tự động mỗi giờ một lần (tại phút 0)
+    - cron: '0 * * * *'
+  workflow_dispatch: # Cho phép kích hoạt thủ công bất kỳ lúc nào từ tab Actions
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🟢 Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: ⚡ Run Real-Time Update Script
+        run: |
+          node scripts/update_readme.js
+
+      - name: 🚀 Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes in README.md to commit."
+          else
+            git commit -m "🤖 chore(realtime): auto-update dynamic time and stats [skip ci]"
+            git push
+          fi
