@@ -73,15 +73,15 @@
       <td align="center">
         <img src="https://img.shields.io/badge/🟢_TRẠNG_THÁI-ĐANG_HOẠT_ĐỘNG-00FF88?style=flat-square&labelColor=0D1117" alt="Live Status" />
         &nbsp;
-        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-22%3A48%3A12%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
+        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-03%3A31%3A27%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
         &nbsp;
-        <img src="https://img.shields.io/badge/📅_NGÀY-Th%E1%BB%A9%20S%C3%A1u%2C%2009%2F10%2F2026-7928CA?style=flat-square&labelColor=0D1117" alt="Date" />
+        <img src="https://img.shields.io/badge/📅_NGÀY-Th%E1%BB%A9%20B%E1%BA%A3y%2C%2010%2F10%2F2026-7928CA?style=flat-square&labelColor=0D1117" alt="Date" />
         &nbsp;
         <img src="https://img.shields.io/badge/🌡️_MÙA-Thu%20%F0%9F%8D%82-FF6B35?style=flat-square&labelColor=0D1117" alt="Season" />
         <br/><br/>
-        <p><i>🌆 <b>Chào buổi tối!</b> Chúc bạn có thời gian thư giãn tuyệt vời!</i></p>
-        <p>💡 "Code is like humor. When you have to explain it, it's bad." — <b>Cory House</b></p>
-        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>09/10/2026 22:48:12 (GMT+7)</b></sub>
+        <p><i>🌙 <b>Cú đêm coding!</b> Đừng quên giữ gìn sức khỏe và nghỉ ngơi hợp lý nhé!</i></p>
+        <p>💡 "Make it work, make it right, make it fast." — <b>Kent Beck</b></p>
+        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>10/10/2026 03:31:27 (GMT+7)</b></sub>
       </td>
     </tr>
   </table>
