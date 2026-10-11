@@ -73,15 +73,15 @@
       <td align="center">
         <img src="https://img.shields.io/badge/🟢_TRẠNG_THÁI-ĐANG_HOẠT_ĐỘNG-00FF88?style=flat-square&labelColor=0D1117" alt="Live Status" />
         &nbsp;
-        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-22%3A19%3A06%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
+        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-02%3A53%3A57%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
         &nbsp;
-        <img src="https://img.shields.io/badge/📅_NGÀY-Ch%E1%BB%A7%20Nh%E1%BA%ADt%2C%2011%2F10%2F2026-7928CA?style=flat-square&labelColor=0D1117" alt="Date" />
+        <img src="https://img.shields.io/badge/📅_NGÀY-Th%E1%BB%A9%20Hai%2C%2012%2F10%2F2026-7928CA?style=flat-square&labelColor=0D1117" alt="Date" />
         &nbsp;
         <img src="https://img.shields.io/badge/🌡️_MÙA-Thu%20%F0%9F%8D%82-FF6B35?style=flat-square&labelColor=0D1117" alt="Season" />
         <br/><br/>
-        <p><i>🌆 <b>Chào buổi tối!</b> Chúc bạn có thời gian thư giãn tuyệt vời!</i></p>
-        <p>💡 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — <b>Martin Fowler</b></p>
-        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>11/10/2026 22:19:06 (GMT+7)</b></sub>
+        <p><i>🌙 <b>Cú đêm coding!</b> Đừng quên giữ gìn sức khỏe và nghỉ ngơi hợp lý nhé!</i></p>
+        <p>💡 "In the middle of difficulty lies opportunity." — <b>Albert Einstein</b></p>
+        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>12/10/2026 02:53:57 (GMT+7)</b></sub>
       </td>
     </tr>
   </table>
