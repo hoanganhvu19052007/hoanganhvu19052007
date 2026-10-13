@@ -73,15 +73,15 @@
       <td align="center">
         <img src="https://img.shields.io/badge/🟢_TRẠNG_THÁI-ĐANG_HOẠT_ĐỘNG-00FF88?style=flat-square&labelColor=0D1117" alt="Live Status" />
         &nbsp;
-        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-17%3A03%3A53%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
+        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-00%3A55%3A19%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
         &nbsp;
-        <img src="https://img.shields.io/badge/📅_NGÀY-Th%E1%BB%A9%20Ba%2C%2013%2F10%2F2026-7928CA?style=flat-square&labelColor=0D1117" alt="Date" />
+        <img src="https://img.shields.io/badge/📅_NGÀY-Th%E1%BB%A9%20T%C6%B0%2C%2014%2F10%2F2026-7928CA?style=flat-square&labelColor=0D1117" alt="Date" />
         &nbsp;
         <img src="https://img.shields.io/badge/🌡️_MÙA-Thu%20%F0%9F%8D%82-FF6B35?style=flat-square&labelColor=0D1117" alt="Season" />
         <br/><br/>
-        <p><i>☀️ <b>Chào buổi chiều!</b> Chúc bạn làm việc hiệu quả & giải quyết bài toán mượt mà!</i></p>
-        <p>💡 "First, solve the problem. Then, write the code." — <b>John Johnson</b></p>
-        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>13/10/2026 17:03:53 (GMT+7)</b></sub>
+        <p><i>🌙 <b>Cú đêm coding!</b> Đừng quên giữ gìn sức khỏe và nghỉ ngơi hợp lý nhé!</i></p>
+        <p>💡 "Simplicity is prerequisite for reliability." — <b>Edsger W. Dijkstra</b></p>
+        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>14/10/2026 00:55:19 (GMT+7)</b></sub>
       </td>
     </tr>
   </table>
