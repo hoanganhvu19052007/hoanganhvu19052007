@@ -73,15 +73,15 @@
       <td align="center">
         <img src="https://img.shields.io/badge/🟢_TRẠNG_THÁI-ĐANG_HOẠT_ĐỘNG-00FF88?style=flat-square&labelColor=0D1117" alt="Live Status" />
         &nbsp;
-        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-18%3A57%3A30%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
+        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-22%3A12%3A43%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
         &nbsp;
         <img src="https://img.shields.io/badge/📅_NGÀY-Th%E1%BB%A9%20B%E1%BA%A3y%2C%2017%2F10%2F2026-7928CA?style=flat-square&labelColor=0D1117" alt="Date" />
         &nbsp;
         <img src="https://img.shields.io/badge/🌡️_MÙA-Thu%20%F0%9F%8D%82-FF6B35?style=flat-square&labelColor=0D1117" alt="Season" />
         <br/><br/>
         <p><i>🌆 <b>Chào buổi tối!</b> Chúc bạn có thời gian thư giãn tuyệt vời!</i></p>
-        <p>💡 "Talk is cheap. Show me the code." — <b>Linus Torvalds</b></p>
-        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>17/10/2026 18:57:30 (GMT+7)</b></sub>
+        <p>💡 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — <b>Martin Fowler</b></p>
+        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>17/10/2026 22:12:43 (GMT+7)</b></sub>
       </td>
     </tr>
   </table>
