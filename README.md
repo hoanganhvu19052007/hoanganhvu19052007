@@ -115,11 +115,11 @@ const Developer = {
   nickname:     "VũDev",
   dateOfBirth:  "19/05/2007",
   location:     "🇻🇳 Việt Nam (GMT+7)",
-  languages:    ["Tiếng Việt 🇻🇳", "English 🇬🇧"],
+  languages:    ["Tiếng Việt 🇻🇳", "English 🇬🇧, Japan jp"],
 
   // ─── 🎓 HỌC VẤN ─────────────────────────────────────────
   education: {
-    school:     "Đang cập nhật",
+    school:     "Học viện công nghệ bưu chính viễn thông",
     major:      "Công nghệ Thông tin / Khoa học Máy tính",
     status:     "📚 Đang học tập & nghiên cứu",
     gpa:        "Đang cập nhật",
@@ -130,7 +130,7 @@ const Developer = {
     {
       role:     "Full-Stack Software Engineer",
       focus:    "Web Apps, Cloud-Native, AI Integration",
-      years:    "2+ năm kinh nghiệm",
+      years:    "Kinh nghiệm từ trong trứng",
     },
   ],
 
