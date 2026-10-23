@@ -73,15 +73,15 @@
       <td align="center">
         <img src="https://img.shields.io/badge/🟢_TRẠNG_THÁI-ĐANG_HOẠT_ĐỘNG-00FF88?style=flat-square&labelColor=0D1117" alt="Live Status" />
         &nbsp;
-        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-06%3A52%3A15%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
+        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-10%3A14%3A36%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
         &nbsp;
         <img src="https://img.shields.io/badge/📅_NGÀY-Th%E1%BB%A9%20S%C3%A1u%2C%2023%2F10%2F2026-7928CA?style=flat-square&labelColor=0D1117" alt="Date" />
         &nbsp;
         <img src="https://img.shields.io/badge/🌡️_MÙA-Thu%20%F0%9F%8D%82-FF6B35?style=flat-square&labelColor=0D1117" alt="Season" />
         <br/><br/>
         <p><i>🌅 <b>Chào buổi sáng!</b> Chúc bạn một ngày mới tràn đầy năng lượng & sáng tạo!</i></p>
-        <p>💡 "It's not a bug — it's an undocumented feature." — <b>Anonymous</b></p>
-        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>23/10/2026 06:52:15 (GMT+7)</b></sub>
+        <p>💡 "Code is like humor. When you have to explain it, it's bad." — <b>Cory House</b></p>
+        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>23/10/2026 10:14:36 (GMT+7)</b></sub>
       </td>
     </tr>
   </table>
