@@ -73,15 +73,15 @@
       <td align="center">
         <img src="https://img.shields.io/badge/🟢_TRẠNG_THÁI-ĐANG_HOẠT_ĐỘNG-00FF88?style=flat-square&labelColor=0D1117" alt="Live Status" />
         &nbsp;
-        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-17%3A38%3A47%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
+        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-21%3A46%3A16%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
         &nbsp;
         <img src="https://img.shields.io/badge/📅_NGÀY-Ch%E1%BB%A7%20Nh%E1%BA%ADt%2C%2025%2F10%2F2026-7928CA?style=flat-square&labelColor=0D1117" alt="Date" />
         &nbsp;
         <img src="https://img.shields.io/badge/🌡️_MÙA-Thu%20%F0%9F%8D%82-FF6B35?style=flat-square&labelColor=0D1117" alt="Season" />
         <br/><br/>
-        <p><i>☀️ <b>Chào buổi chiều!</b> Chúc bạn làm việc hiệu quả & giải quyết bài toán mượt mà!</i></p>
-        <p>💡 "Experience is the name everyone gives to their mistakes." — <b>Oscar Wilde</b></p>
-        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>25/10/2026 17:38:47 (GMT+7)</b></sub>
+        <p><i>🌆 <b>Chào buổi tối!</b> Chúc bạn có thời gian thư giãn tuyệt vời!</i></p>
+        <p>💡 "In the middle of difficulty lies opportunity." — <b>Albert Einstein</b></p>
+        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>25/10/2026 21:46:16 (GMT+7)</b></sub>
       </td>
     </tr>
   </table>
