@@ -73,15 +73,15 @@
       <td align="center">
         <img src="https://img.shields.io/badge/🟢_TRẠNG_THÁI-ĐANG_HOẠT_ĐỘNG-00FF88?style=flat-square&labelColor=0D1117" alt="Live Status" />
         &nbsp;
-        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-22%3A04%3A23%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
+        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-03%3A50%3A37%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
         &nbsp;
-        <img src="https://img.shields.io/badge/📅_NGÀY-Th%E1%BB%A9%20N%C4%83m%2C%2029%2F10%2F2026-7928CA?style=flat-square&labelColor=0D1117" alt="Date" />
+        <img src="https://img.shields.io/badge/📅_NGÀY-Th%E1%BB%A9%20S%C3%A1u%2C%2030%2F10%2F2026-7928CA?style=flat-square&labelColor=0D1117" alt="Date" />
         &nbsp;
         <img src="https://img.shields.io/badge/🌡️_MÙA-Thu%20%F0%9F%8D%82-FF6B35?style=flat-square&labelColor=0D1117" alt="Season" />
         <br/><br/>
-        <p><i>🌆 <b>Chào buổi tối!</b> Chúc bạn có thời gian thư giãn tuyệt vời!</i></p>
-        <p>💡 "Code is like humor. When you have to explain it, it's bad." — <b>Cory House</b></p>
-        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>29/10/2026 22:04:23 (GMT+7)</b></sub>
+        <p><i>🌙 <b>Cú đêm coding!</b> Đừng quên giữ gìn sức khỏe và nghỉ ngơi hợp lý nhé!</i></p>
+        <p>💡 "The best error message is the one that never shows up." — <b>Thomas Fuchs</b></p>
+        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>30/10/2026 03:50:37 (GMT+7)</b></sub>
       </td>
     </tr>
   </table>
