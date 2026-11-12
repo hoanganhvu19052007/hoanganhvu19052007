@@ -73,15 +73,15 @@
       <td align="center">
         <img src="https://img.shields.io/badge/🟢_TRẠNG_THÁI-ĐANG_HOẠT_ĐỘNG-00FF88?style=flat-square&labelColor=0D1117" alt="Live Status" />
         &nbsp;
-        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-16%3A14%3A11%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
+        <img src="https://img.shields.io/badge/⏰_GIỜ_VIỆT_NAM-00%3A53%3A36%20(GMT%2B7)-00D4FF?style=flat-square&labelColor=0D1117" alt="Vietnam Time" />
         &nbsp;
-        <img src="https://img.shields.io/badge/📅_NGÀY-Th%E1%BB%A9%20N%C4%83m%2C%2012%2F11%2F2026-7928CA?style=flat-square&labelColor=0D1117" alt="Date" />
+        <img src="https://img.shields.io/badge/📅_NGÀY-Th%E1%BB%A9%20S%C3%A1u%2C%2013%2F11%2F2026-7928CA?style=flat-square&labelColor=0D1117" alt="Date" />
         &nbsp;
         <img src="https://img.shields.io/badge/🌡️_MÙA-Thu%20%F0%9F%8D%82-FF6B35?style=flat-square&labelColor=0D1117" alt="Season" />
         <br/><br/>
-        <p><i>☀️ <b>Chào buổi chiều!</b> Chúc bạn làm việc hiệu quả & giải quyết bài toán mượt mà!</i></p>
-        <p>💡 "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." — <b>Antoine de Saint-Exupéry</b></p>
-        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>12/11/2026 16:14:11 (GMT+7)</b></sub>
+        <p><i>🌙 <b>Cú đêm coding!</b> Đừng quên giữ gìn sức khỏe và nghỉ ngơi hợp lý nhé!</i></p>
+        <p>💡 "Experience is the name everyone gives to their mistakes." — <b>Oscar Wilde</b></p>
+        <sub style="color: #94A3B8;">⚡ Tự động cập nhật mỗi giờ qua GitHub Actions • Cập nhật lần cuối: <b>13/11/2026 00:53:36 (GMT+7)</b></sub>
       </td>
     </tr>
   </table>
